@@ -3,7 +3,7 @@
 
   <groupId>edu.cmu.lti.11791.f14.hw0</groupId>
   <artifactId>hw0-josephc1</artifactId>
-  <version>0.1.1-SNAPSHOT</version>
+  <version>0.1.2-SNAPSHOT</version>
 
   <packaging>jar</packaging>
   <name>hw0-josephc1</name>
